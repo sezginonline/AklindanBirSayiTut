@@ -1,2 +1,1 @@
-# AklindanBirSayiTut
-Aklından Bir Sayı Tut - Android Applicaiton
+# Aklından Bir Sayı Tut - Android Uygulaması
